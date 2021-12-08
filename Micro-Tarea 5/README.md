@@ -2,7 +2,7 @@
 # Micro Tarea 5
 ## Creación de Nodo Minikube
 Crear nodo donde se encontrarán los pods de estrés y prometheus para el monitoreo.
-![Crear nodo](../imagenes/crearNodo.png)
+![Crear nodo](../imagenes/crearNodo.PNG)
 
 ## Instalar Prometheus
 Instalación de prometheus usando HELM.
@@ -14,8 +14,8 @@ Creación de pod con consumo de 1 CPU usando la imagen stress-ng.
 ### Consumo de CPU
 ![stress1](../imagenes/creacionStressTest.PNG)
 ![stress2](../imagenes/creacionStressTest2.PNG)
-Creación de pod con consumo de 250MB usando la imagen stress-ng.
 ### Consumo de Memoria
+Creación de pod con consumo de 250MB usando la imagen stress-ng.
 ![stress3](../imagenes/yamlStress.PNG)
 ![stress2](../imagenes/creacionStressTest2.PNG)
 ## Monitoreo
