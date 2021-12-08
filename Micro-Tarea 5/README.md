@@ -12,10 +12,12 @@ Dashboard de prometheus después de hacer port-forward.
 ## Crear Pod de estrés
 Creación de pod con consumo de 1 CPU usando la imagen stress-ng.
 ### Consumo de CPU
+#### Imagenes del dashboard
 ![stress1](../imagenes/creacionStressTest.PNG)
 ![stress2](../imagenes/creacionStressTest2.PNG)
 ### Consumo de Memoria
 Creación de pod con consumo de 250MB usando la imagen stress-ng.
+#### Imagenes del dashboard
 ![stress3](../imagenes/yamlStress.PNG)
 ![stress2](../imagenes/creacionStressTest2.PNG)
 ## Monitoreo
