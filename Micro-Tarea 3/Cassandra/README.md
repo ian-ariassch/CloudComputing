@@ -38,4 +38,4 @@ Una imagen representativa de la arquitectura:
 - Bloom filter: Algoritmos para revisar si un elemento está o no en un set.
 
 
-![arquitecturaCassandr2a](../../imagenes/cassandra_architecture2.jpg)
+![arquitecturaCassandr2a](../../imagenes/cassandra_architecture2.png)
