@@ -1,5 +1,5 @@
 ﻿
-# Micro Tarea 5
+# Micro Tarea 5 - Ian Arias Schreiber y José Chavez
 ## Creación de Nodo Minikube
 Crear nodo donde se encontrarán los pods de estrés y prometheus para el monitoreo.
 ![Crear nodo](../imagenes/crearNodo.PNG)
