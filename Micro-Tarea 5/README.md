@@ -30,5 +30,7 @@ Uso del CPU desde la creación del pod de memoria hasta su deleción.
 ![monitor3](../imagenes/memoryConsumptionSube.PNG)
 ![monitor4](../imagenes/memoryConsumptionBaja.PNG)
 
+## Pensamientos finales
+Creemos que Prometheus es una herramienta fácil de instalar y además útil y rápida al momento de hacer monitoreo. Provee una amplia cantidad de consultas de monitoreo a través de su lenguaje "PromQL" como uso de CPU, Memoria, Consultas HTTPS, entre otras. Por otro lado la posible integración de Grafana con Prometheus hace que la herramienta sea aún más útil y versatil.
 
 
