@@ -26,7 +26,7 @@ Una función fundamental de Cassandra es la replicación de la data en todos los
 Al haber varios nodos con la misma data, cuando se hace una consulta en la base de datos Cassandra retorna el valor actualizado recientemente y actualiza los otros nodos.
 
 Una imagen representativa de la arquitectura:
-![arquitecturaCassandra](../imagenes/data_replication.jpg)
+![arquitecturaCassandra](../../imagenes/data_replication.jpg)
 
 ### Componentes principales de Cassandra
 - Nodo: Lugar donde este guarda la data.
@@ -38,4 +38,4 @@ Una imagen representativa de la arquitectura:
 - Bloom filter: Algoritmos para revisar si un elemento está o no en un set.
 
 
-![arquitecturaCassandr2a](../imagenes/cassandra_architecture2.jpg)
+![arquitecturaCassandr2a](../../imagenes/cassandra_architecture2.jpg)
