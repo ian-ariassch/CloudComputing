@@ -39,3 +39,7 @@ Una imagen representativa de la arquitectura:
 
 
 ![arquitecturaCassandr2a](../../imagenes/cassandra-architecture2.png)
+
+## Pensamientos finales
+
+Creemos que Cassandra es una base de datos bastante útil debido a sus características de alta y fácil escalabilidad. Pensamos que esta base de datos sería de más utilidad a empresas que maneja Big Data como redes sociales o aplicaciones de streaming, pues garantiza que por replicación de la data entre los nodos no se pierda información.
