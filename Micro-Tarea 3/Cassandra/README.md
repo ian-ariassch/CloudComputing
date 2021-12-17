@@ -1,4 +1,4 @@
-# Micro Tarea 3 - Ian Arias Schreiber y José Chavez
+# Micro Tarea 3 - Ian Arias Schreiber
 ## Aspectos generales Cassandra
 Cassandra es una base de datos distribuida NoSQL la cual es altamente escalable. Además, esta diseñada para poder manejar una gran cantidad de datos.
 
